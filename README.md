@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Pt.Avinash Mishra Shastri
+- PASSIONATE FULL STACK DEVELOPER
 - 👀 I’m deeply interested in coding
 - 🌱 I’m currently learning firebase realtime database
 - 💞️ I’m looking to collaborate on Google Summmer Of Code
