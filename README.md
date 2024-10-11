@@ -7,7 +7,6 @@
 - 😄 Pronouns: Shastri
 - ⚡ Fun fact: I'm learning In Club at my school.
 
-<!---
+
 founder0techsolvy/founder0techsolvy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
