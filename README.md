@@ -1,12 +1,94 @@
-- 👋 Hi, I’m Pt.Avinash Mishra Shastri
-- PASSIONATE FULL STACK DEVELOPER
-- 👀 I’m deeply interested in coding
-- 🌱 I’m currently learning firebase realtime database
-- 💞️ I’m looking to collaborate on Google Summmer Of Code
-- 📫 How to reach me glitch.shastri@gmail.com
-- 😄 Pronouns: Shastri
-- ⚡ Fun fact: I'm learning In Club at my school.
 
+<div align="center">  
+  <img src="https://avatars.githubusercontent.com/u/founder0techsolvy" alt="Avinash Mishra" width="150" style="border-radius: 50%;">  
+  <h1>Hi there, I'm <b>Avinash Mishra</b> 👋</h1>  
+  <h3>Medical Student | Founder of <a href="https://techsolvy.online">TechSolvy</a> | Science Enthusiast</h3>  
+</div>  
 
-founder0techsolvy/founder0techsolvy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+---
+
+### 🚀 **About Me**  
+- 🎓 **AI Educator**: Trained **100+ students** through hands-on AI workshops.  
+- 🏆 **Science Champion**: Top-ranked participant in inter-school & inter-district science exhibitions.  
+- 🌟 **Web Developer**: Passionate about crafting **dynamic web solutions** with engaging UI/UX.  
+- 📖 **Literature Lover**: Deeply connected with the beauty of words and creativity.  
+
+---
+
+<div align="center">  
+  <img src="https://via.placeholder.com/700x200?text=TechSolvy+-+Web+Solutions+for+Professionals" alt="TechSolvy Banner" style="border-radius: 10px;">  
+</div>  
+
+---
+
+### 🛠️ **My Skills**  
+<div align="center">  
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,firebase,git" alt="Skills Icons" />  
+</div>  
+- **Frontend Development**: HTML, CSS, JavaScript, Bootstrap  
+- **Firebase Integration**: Authentication, Firestore, Hosting  
+- **Creative Projects**: Event Management Systems, Media Sharing Platforms  
+
+---
+
+### 📂 **Projects Highlights**  
+#### 1️⃣ **FaceDash**  
+A **photo-sharing platform** with real-time user interactions and ratings.  
+🌟 Features: Media gallery, leaderboard, live camera uploads.  
+
+#### 2️⃣ **PassX**  
+A **password manager** focused on security and simplicity.  
+🔒 Features: Client-side hashing, encryption, and mobile optimization.  
+
+#### 3️⃣ **Memory Map**  
+An **interactive map** for private media sharing and playlist recommendations.  
+🗺️ Features: Pair accounts, private interactions, and music integration.  
+
+---
+
+### 🌟 **Showcase**  
+<div align="center">  
+  <img src="https://via.placeholder.com/300x200?text=Project+1" alt="Project 1" style="border-radius: 10px; margin: 10px;">  
+  <img src="https://via.placeholder.com/300x200?text=Project+2" alt="Project 2" style="border-radius: 10px; margin: 10px;">  
+</div>  
+
+---
+
+### 🌱 **Currently Learning**  
+- **Advanced Web Development**: React.js and dynamic UI libraries.  
+- **Cloud Functions**: Leveraging Firebase for scalable solutions.  
+- **Encryption Techniques**: Enhancing client-side security.  
+
+---
+
+### 📊 **GitHub Stats**  
+<div align="center">  
+  <img src="https://github-readme-stats.vercel.app/api?username=avinash-mishra&show_icons=true&theme=radical" alt="Avinash's GitHub Stats" style="margin: 10px;">  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinash-mishra&layout=compact&theme=radical" alt="Top Languages" style="margin: 10px;">  
+</div>  
+
+---
+
+### 💌 **Connect with Me**  
+<div align="center">  
+  <a href="mailto:avinashmishra.techsolvy@gmail.com">  
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge">  
+  </a>  
+  <a href="https://techsolvy.online">  
+    <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge">  
+  </a>  
+  <a href="https://github.com/avinash-mishra">  
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">  
+  </a>  
+</div>  
+
+---
+
+<div align="center">  
+  <h4>✨ "Design & Built By Pt. Avinash Mishra Shastri, Founder of TechSolvy" ✨</h4>  
+  <img src="https://via.placeholder.com/150" alt="Avinash Mishra Photo" width="100" style="border-radius: 50%; margin-top: 10px;">  
+</div>  
+
+---
+
+Let me know if you'd like to add anything else or tweak the design further!
