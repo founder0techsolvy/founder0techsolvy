@@ -1,8 +1,8 @@
 
 <div align="center">  
-  <img src="https://avatars.githubusercontent.com/u/founder0techsolvy" alt="Avinash Mishra" width="150" style="border-radius: 50%;">  
+  <img src="https://avatars.githubusercontent.com/u/169643545?v=4" alt="Avinash Mishra" width="150" style="border-radius: 50%;">  
   <h1>Hi there, I'm <b>Avinash Mishra</b> 👋</h1>  
-  <h3>Medical Student | Founder of <a href="https://techsolvy.online">TechSolvy</a> | Science Enthusiast</h3>  
+  <h3>Founder of <a href="https://techsolvy.online">TechSolvy</a> | Science Enthusiast</h3>  
 </div>  
 
 ---
@@ -16,14 +16,14 @@
 ---
 
 <div align="center">  
-  <img src="https://via.placeholder.com/700x200?text=TechSolvy+-+Web+Solutions+for+Professionals" alt="TechSolvy Banner" style="border-radius: 10px;">  
+  <img src="https://techsolvy.online/img/intro-carousel/onesol.jpg)" alt="TechSolvy Banner" style="border-radius: 10px;">  
 </div>  
 
 ---
 
 ### 🛠️ **My Skills**  
 <div align="center">  
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,firebase,git" alt="Skills Icons" />  
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,firebase,github,appwrite,chatgpt,gemini" alt="Skills Icons" />  
 </div>  
 - **Frontend Development**: HTML, CSS, JavaScript, Bootstrap  
 - **Firebase Integration**: Authentication, Firestore, Hosting  
@@ -44,12 +44,15 @@ A **password manager** focused on security and simplicity.
 An **interactive map** for private media sharing and playlist recommendations.  
 🗺️ Features: Pair accounts, private interactions, and music integration.  
 
+###4️⃣ **Wish Deep**
+A website to generate personalised deepawali wishes with receiver's live image.
+🔥 Features: Reviewers enter their name and press submit then automatically receiver's image captured and displays a personalized wishes.
 ---
 
 ### 🌟 **Showcase**  
 <div align="center">  
-  <img src="https://via.placeholder.com/300x200?text=Project+1" alt="Project 1" style="border-radius: 10px; margin: 10px;">  
-  <img src="https://via.placeholder.com/300x200?text=Project+2" alt="Project 2" style="border-radius: 10px; margin: 10px;">  
+  <img src="https://drive.google.com/file/d/10rc6lqS8vEj9g6RehcQgcuh1bNtHS1FY/view?usp=drivesdk" style="border-radius: 10px; margin: 10px;">  
+  <img src="https://drive.google.com/file/d/117f3qnTrQ9uN455esxonePBpID90oQYS/view?usp=drivesdk" alt="Project 2" style="border-radius: 10px; margin: 10px;">  
 </div>  
 
 ---
@@ -71,13 +74,13 @@ An **interactive map** for private media sharing and playlist recommendations.
 
 ### 💌 **Connect with Me**  
 <div align="center">  
-  <a href="mailto:avinashmishra.techsolvy@gmail.com">  
+  <a href="mailto:founder.techsolvy@gmail.com">  
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge">  
   </a>  
   <a href="https://techsolvy.online">  
     <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge">  
   </a>  
-  <a href="https://github.com/avinash-mishra">  
+  <a href="https://github.com/founder0techsolvy">  
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">  
   </a>  
 </div>  
@@ -86,9 +89,6 @@ An **interactive map** for private media sharing and playlist recommendations.
 
 <div align="center">  
   <h4>✨ "Design & Built By Pt. Avinash Mishra Shastri, Founder of TechSolvy" ✨</h4>  
-  <img src="https://via.placeholder.com/150" alt="Avinash Mishra Photo" width="100" style="border-radius: 50%; margin-top: 10px;">  
+  <img src="https://avatars.githubusercontent.com/u/169643545?v=4" alt="Avinash Mishra Photo" width="100" style="border-radius: 50%; margin-top: 10px;">  
 </div>  
 
----
-
-Let me know if you'd like to add anything else or tweak the design further!
